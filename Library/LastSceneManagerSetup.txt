@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scenes/InputSelect(\u62D6\u62FD\u65F6\u7ED8\u5236\u77E9\u5F62\u8FB9\u6846)-\u5355\u9009\u591A\u9009.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
